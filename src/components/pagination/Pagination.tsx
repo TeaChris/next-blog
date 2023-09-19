@@ -1,9 +1,9 @@
 import { FC } from 'react'
 
-interface PagunationProps {
+interface PaginationProps {
   // My Custom Props Here
 }
 
-export const Pagunation: FC<PagunationProps> = ({}) => {
-  return <div>Pagunation Component</div>
+export const Pagination: FC<PaginationProps> = ({}) => {
+  return <div>Pagination Component</div>
 }
